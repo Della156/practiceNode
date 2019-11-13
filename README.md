@@ -15,5 +15,6 @@
 	2). 执行命令: `npm start`
 	3). 提示连接成功
 
-
-> PS: 前端代码是参考大佬的做了一点小修改，地址在这 [使用vue仿写CNodeJS社区前端](https://github.com/Reviving-Pain/reviving-pain.github.io)
+PS: 前端代码是参考大佬的做了一点小修改，
+地址在这 [使用vue仿写CNodeJS社区前端](https://github.com/Reviving-Pain/reviving-pain.github.io)
+背景图是@尧立(站酷设计师)作品，如有侵权立删。
