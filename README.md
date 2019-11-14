@@ -3,8 +3,10 @@
 
 图示如下：
 ---
-![my-picture](imgs/img.png?raw=true)
-
+![my-picture](imgs/img.png?raw=true){:height="50%" width="50%"}
+<p align="center">
+  <img src="imgs/img.png?raw=true" alt="Sample"  width="50%" height="50%">
+</p>
 ## 运行说明
 ### 1. 准备
   	1). 请确保安装了node环境 查看是否已经安装: $node -v  
