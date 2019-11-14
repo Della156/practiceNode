@@ -3,7 +3,6 @@
 
 图示如下：
 ---
-![my-picture](imgs/img.png?raw=true){:height="50%" width="50%"}
 <p align="center">
   <img src="imgs/img.png?raw=true" alt="Sample"  width="50%" height="50%">
 </p>
